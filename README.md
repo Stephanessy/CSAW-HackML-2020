@@ -1,4 +1,4 @@
-# CSAW-HackML-2020
+# CSAW-HackML-2020 (Course project of ECE-GY 9163)
 
 ```bash
 ├── data 
